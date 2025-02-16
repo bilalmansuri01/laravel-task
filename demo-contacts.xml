@@ -1,0 +1,10 @@
+<contacts>
+    <contact>
+        <name>John Doe</name>
+        <phone>1234567890</phone>
+    </contact>
+    <contact>
+        <name>Jane Smith</name>
+        <phone>9876543210</phone>
+    </contact>
+</contacts>
